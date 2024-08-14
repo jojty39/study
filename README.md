@@ -1,3 +1,13 @@
+# 20240814 #
+### - HTML ###
+* '예제 퀴즈'를 직접 'github page' 업로드 후 주소 첨부해서 과제를 제출했다.
+* `id속성`, `anchor`, `<img src="" alt="">`에 대해서 배웠다.
+* `Live Server`를 활용해서 '브리태니커 백과사전' 홈페이지를 만들었다.
+### - FIGMA ###
+* `Plugins`, `Auto layout`, `Fill container`, `component`에 대해서 배웠다.
+* 피그마에서 다양한 기능과 효과를 활용하여 `Alert-알람팝업창`을 만들어보았다.
+* `component-variant`를 사용해 `toggleBtn`을 만들어보았다.
+
 # 20240813 #
 ### - HTML ###
 * `GitHub Pages`에 대해서 배웠다.
@@ -6,7 +16,7 @@
 ### - FIGMA ###
 * 피그마에서 사용할 로컬 폰트를 설치했다. https://www.figma.com/ko-kr/downloads/
 * 구글 웹스토어에서 `ColorZilla`를 설치 후, 컬러 추출하는 방법을 배웠다.
-* `Nudge amount 설정`, `Frame selection`, `Grid Styles`, `Plugins`, `Constraints` 에 대해서 배웠다.
+* `Nudge amount 설정`, `Frame selection`, `Grid Styles`, `Constraints` 에 대해서 배웠다.
 * 피그마에서 다양한 기능과 효과를 활용하여 '도넛형 그래프', '신용카드 디자인', '아이폰13&14 앱화면'을 만들어보았다.
 
 # 20240812 #
