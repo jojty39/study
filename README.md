@@ -1,3 +1,14 @@
+# 20240816 #
+### - HTML ###
+* `<figure>`, `<figcaption>`, 에 대해서 배웠다.
+* '다양한 폼(form) 관련 태그'를 배웠다
+  - `input`, `label`, `table`, `name`, `maxlength`, `minlength`, `placeholder`, `required`, `value`, `autofocus`, `checked`, `selected`, `disabled`
+### - FIGMA ###
+* '커뮤니티(Explore Community)'에서 키트를 가지고 와서 작업하는 방법에 대해서 배웠다.
+* `prototype`를 활용하여 '다양한 버튼'과 `모달(Modal)`을 만들어보았다.
+* Prototype 참고 사이트 : https://blog.naver.com/dhm1994/223483163008
+* Modal 참고 사이트 : https://blog.naver.com/wew0123/223479520033
+
 # 20240814 #
 ### - HTML ###
 * '예제 퀴즈'를 직접 'github page' 업로드 후 주소 첨부해서 과제를 제출했다.
