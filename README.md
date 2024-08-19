@@ -1,11 +1,23 @@
+# 20240819 #
+### - HTML ###
+* `<video>`, `<audio>`, 에 대해서 배웠다.
+* `favicon(파비콘)`을 직접 만들어서 적용해보았다.
+* '다양한 메타(meta) 관련 태그'를 배웠다
+  - `name`, `content`, `description`, `refferrer`, `property`
+* `open graph(오픈 그래프)`에 대해서 배웠다.
+* 디지털 정부서비스 UI/UX 가이드라인 (+코드 소스 공부하기 좋은 사이트) : https://uiux.egovframe.go.kr/guide/index.html
+### - FIGMA ###
+* `prototype`를 활용하여 '배너(banner)`를 만들었다.
+* `Local variables`에 대해서 배웠다.
+
 # 20240816 #
 ### - HTML ###
 * `<figure>`, `<figcaption>`, 에 대해서 배웠다.
 * '다양한 폼(form) 관련 태그'를 배웠다
-  - `input`, `label`, `table`, `name`, `maxlength`, `minlength`, `placeholder`, `required`, `value`, `autofocus`, `checked`, `selected`, `disabled`
+  - `input`, `label`, `table`, `name`, `maxlength`, `minlength`, `placeholder`, `required`, `value`, `autofocus`, `checked`, `selected`, `disabled`, `required`, `disabled`
 ### - FIGMA ###
 * '커뮤니티(Explore Community)'에서 키트를 가지고 와서 작업하는 방법에 대해서 배웠다.
-* `prototype`를 활용하여 '다양한 버튼'과 `모달(Modal)`을 만들어보았다.
+* `prototype`를 활용하여 '다양한 버튼'과 `모달(Modal)`을 만들었다.
 * Prototype 참고 사이트 : https://blog.naver.com/dhm1994/223483163008
 * Modal 참고 사이트 : https://blog.naver.com/wew0123/223479520033
 
@@ -16,7 +28,7 @@
 * `Live Server`를 활용해서 '브리태니커 백과사전' 홈페이지를 만들었다.
 ### - FIGMA ###
 * `Plugins`, `Auto layout`, `Fill container`, `component`에 대해서 배웠다.
-* 피그마에서 다양한 기능과 효과를 활용하여 `Alert-알람팝업창`을 만들어보았다.
+* 피그마에서 다양한 기능과 효과를 활용하여 `Alert-알람팝업창`을 만들었다.
 * `component-variant`를 사용해 `toggleBtn`을 만들어보았다.
 
 # 20240813 #
