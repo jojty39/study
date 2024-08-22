@@ -1,10 +1,23 @@
+# 20240822 #
+### - CSS ###
+* `Vertical-align 속성`, `columns`, `의사 클래스와 의사 요소`에 대해서 배웠다.
+* `인라인 요소`와 `블록 요소`의 '가로 세로(width+height)영역 제어'하는 방법에 대해서 배웠다.
+* Vertical-align 참고사이트: https://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0-vertical-align-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1%EB%B6%80/
+* columns 참고사이트: https://til.younho9.dev/docs/frontend/css/css-%EC%86%8D%EC%84%B1-15-columns/
+### - UX·UI ###
+* `와이어프레임(wireframe)`을 만들 웹 디자인 참고 사이트 4곳을 조사했다.
+* 퓨리토서울: https://purito.com/
+* LG CNS Solution: https://solution-dev.link/
+* 나인위시스 9wishes: https://9wishes.co.kr/
+* 디지털웍스: https://www.digitalworks.co.kr/dgMain.do
+
 # 20240821 #
 ### - CSS ###
 * `font와 text의 여러 특성`에 대해서 배웠다.
 * https://shadows.brumm.af/ 를 활용해 자연스럽게 `text-shodow` 넣는 법을 배웠다.
 * `text-overflow`를 활용해 넘치는 콘텐츠를 제어하는 방법에 대해서 배웠다.
 ### - FIGMA ###
-* `prototype`를 활용하여 모바일 웹앱 디자인을 만들었다.
+* `prototype`를 활용하여 '모바일 웹앱 디자인'을 만들어 과제를 제출했다.
 
 # 20240820 #
 ### - HTML ###
@@ -45,8 +58,8 @@
 * `Live Server`를 활용해서 '브리태니커 백과사전' 홈페이지를 만들었다.
 ### - FIGMA ###
 * `Plugins`, `Auto layout`, `Fill container`, `component`에 대해서 배웠다.
-* 피그마에서 다양한 기능과 효과를 활용하여 `Alert-알람팝업창`을 만들었다.
-* `component-variant`를 사용해 `toggleBtn`을 만들어보았다.
+* 피그마에서 다양한 기능과 효과를 활용하여 `Alert-알람팝업창`의 `와이어프레임(wireframe)`을 만들었다.
+* `component-variant`를 사용해 `toggleBtn`의 `와이어프레임(wireframe)`을 만들어보았다.
 
 # 20240813 #
 ### - HTML ###
@@ -57,7 +70,7 @@
 * 피그마에서 사용할 로컬 폰트를 설치했다. https://www.figma.com/ko-kr/downloads/
 * 구글 웹스토어에서 `ColorZilla`를 설치 후, 컬러 추출하는 방법을 배웠다.
 * `Nudge amount 설정`, `Frame selection`, `Grid Styles`, `Constraints` 에 대해서 배웠다.
-* 피그마에서 다양한 기능과 효과를 활용하여 '도넛형 그래프', '신용카드 디자인', '아이폰13&14 앱화면'을 만들어보았다.
+* 피그마에서 다양한 기능과 효과를 활용하여 '도넛형 그래프', '신용카드 디자인', '아이폰13&14 앱화면'의 `와이어프레임(wireframe)`을 만들어보았다.
 
 # 20240812 #
 ### - HTML ###
