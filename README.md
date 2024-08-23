@@ -1,3 +1,13 @@
+# 20240823 #
+### - CSS ###
+* `적응형(AWD)` vs `반응형(RWD)` 웹 디자인 종류에 대해서 배웠다.
+* `vscode emmet(에밋)`을 사용하여 작업하는 방법을 배웠다.
+* `테두리border`, `안쪽여백padding`, `바깥여백margin`, `블록요소 중앙정렬`, `둥근모서리border-radius`, 에 대해서 배웠다.
+* `마진상쇄(Margin-collapsing)현상`에 대해서 배웠다.
+* Margin-collapsing 참고사이트: https://velog.io/@raram2/CSS-%EB%A7%88%EC%A7%84-%EC%83%81%EC%87%84Margin-collapsing-%EC%9B%90%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4
+### - UX·UI ###
+* 피그마를 활용하여 `와이어프레임(wireframe)`과 디자인스타일가이드를 만들어 제출했다.
+
 # 20240822 #
 ### - CSS ###
 * `Vertical-align 속성`, `columns`, `의사 클래스와 의사 요소`에 대해서 배웠다.
@@ -18,6 +28,7 @@
 * `text-overflow`를 활용해 넘치는 콘텐츠를 제어하는 방법에 대해서 배웠다.
 ### - FIGMA ###
 * `prototype`를 활용하여 '모바일 웹앱 디자인'을 만들어 과제를 제출했다.
+* 앱디자인과제작업: https://www.figma.com/proto/a9fmI651LmMlBX6DJi16GJ/Untitled?node-id=91-151&t=ybi0YlZmYQ7Ff91v-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A3&starting-point-node-id=91%3A151&show-proto-sidebar=1
 
 # 20240820 #
 ### - HTML ###
