@@ -1,3 +1,11 @@
+# 20240826 #
+### - CSS ###
+* `border속성`을 활용해 (사각형, 원, 삼각형)모양의 도형을 만들었다. 
+* `overflow`를 사용해 넘치는 컨텐츠 제어하는 방법을 배웠다.
+### - UX·UI ###
+* `개발자도구(F12)`를 활용하여 홈페이지의 이미지와 아이콘을 가져와 작업을 진행했다.
+* 피그마에 만들어둔 `와이어프레임(wireframe)`을 활용하여 모바일 화면을 만들었다.
+
 # 20240823 #
 ### - CSS ###
 * `적응형(AWD)` vs `반응형(RWD)` 웹 디자인 종류에 대해서 배웠다.
@@ -6,8 +14,8 @@
 * `마진상쇄(Margin-collapsing)현상`에 대해서 배웠다.
 * Margin-collapsing 참고사이트: https://velog.io/@raram2/CSS-%EB%A7%88%EC%A7%84-%EC%83%81%EC%87%84Margin-collapsing-%EC%9B%90%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4
 ### - UX·UI ###
-* 피그마를 활용하여 `와이어프레임(wireframe)`과 디자인스타일가이드를 만들어 제출했다.
-
+* 피그마를 활용하여 'Desktop, Table, Mobile'의 3가지 버전의 `와이어프레임(wireframe)`과 '디자인스타일가이드'를 만들었다.
+* 활용사이트 : LG CNS Solution: https://solution-dev.link/
 # 20240822 #
 ### - CSS ###
 * `Vertical-align 속성`, `columns`, `의사 클래스와 의사 요소`에 대해서 배웠다.
