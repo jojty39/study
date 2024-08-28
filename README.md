@@ -1,3 +1,16 @@
+# 20240828 #
+### - CSS ###
+* border에 `transparent` 값을 넣어 'hover 적용시 `밀림 현상`을 해결하는 방법'을 배웠다.
+* `list-style` 변경하는 방법을 배웠다.
+* `요소의 실제 크기`를 계산하는 방법을 배웠다.
+* `실제 너비`: width + margin-left + margin-right + padding-left + padding-right + border-left + border-right
+* `실제 높이`: height + margin-top + margin-bottom + padding-top + padding-bottom + border-top + border-bottom
+### - UX·UI ###
+* 피그마에 만들어둔 `와이어프레임(wireframe)`을 활용할 새로운 주제를 가진, 디자인 참고 사이트 3곳을 조사했다.
+* 오늘의집: https://www.bucketplace.com/
+* kt: https://corp.kt.com/
+* 교보생명: https://www.kyobo.com/dgt/web/company-introduction/main/
+
 # 20240827 #
 ### - HTML & CSS ###
 * `CDN(Content Delivery Network)`방식으로 웹폰트 연결하는 방법을 배웠다.
