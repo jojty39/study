@@ -1,5 +1,13 @@
 # 20240828 #
 ### - CSS ###
+* `nav-menu` 만드는 방법을 배웠다.
+*  `em`, `rem`, `viewport-vw,vh`의 단위값에 대해서 배웠다.
+* px to em calculator 계산사이트 : https://pxtoem.com.au/
+### - UX·UI ###
+* 피그마에 만들어둔 `와이어프레임(wireframe)`을 활용할 새로운 주제로 `프로토타입(prototype)`을 만들었다.
+
+# 20240828 #
+### - CSS ###
 * border에 `transparent` 값을 넣어 'hover 적용시 `밀림 현상`을 해결하는 방법'을 배웠다.
 * `list-style` 변경하는 방법을 배웠다.
 * `요소의 실제 크기`를 계산하는 방법을 배웠다.
