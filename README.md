@@ -1,4 +1,14 @@
-# 20240828 #
+# 20240902 #
+### - CSS ###
+* `flexbox`의 기본 개념에 대해서 배웠다.
+* `flex-direction`, `flex-wrap`, `flex-flow`, `justify-content`, `align-items`, `align-content` 에 대해서 배웠다.
+* https://developer.mozilla.org/ko/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+* https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+### - UX·UI ###
+* 피그마에 만들어둔 `와이어프레임(wireframe)`을 활용할 새로운 주제로 `프로토타입(prototype)`을 만든 것을 제출하였다.
+* 'UI 프로젝트' 팀을 정해서 과제 파트를 배분했다. 발표사이트:https://uiux.egovframe.go.kr/guide/service/service_02_01.html
+ 
+# 20240829 #
 ### - CSS ###
 * `nav-menu` 만드는 방법을 배웠다.
 *  `em`, `rem`, `viewport-vw,vh`의 단위값에 대해서 배웠다.
