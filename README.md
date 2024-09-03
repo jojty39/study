@@ -1,5 +1,15 @@
+# 20240903 #
+### - CSS ###
+* 다양한 예제를 통해 `flexbox`를 연습했다.
+* 속성값을 사칙연산으로 정할 수 있게 하는 `calc()` 함수에 대해서 배웠다.
+* cf. flexboxfroggy: https://flexboxfroggy.com/#ko
+### - UX·UI ###
+* 'UI 프로젝트' 팀별 발표를 진행했다.
+* 스스로 정했던 앱 3가지 중 1개 정해서 스타일가이드 분석을 시작하였다.
+
 # 20240902 #
 ### - CSS ###
+* 'VSCode User snippets 설정하는 방법'에 대해서 배웠다.
 * `flexbox`의 기본 개념에 대해서 배웠다.
 * `flex-direction`, `flex-wrap`, `flex-flow`, `justify-content`, `align-items`, `align-content` 에 대해서 배웠다.
 * https://developer.mozilla.org/ko/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
