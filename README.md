@@ -1,3 +1,12 @@
+# 20240909 #
+### - CSS ###
+* `background-image`, `background-position`, `background-attachment`, `background-size` 에 대해서 배웠다.
+* `background`를 `multi(중첩)`하는 방법에 대해서 배웠다.
+* 이미지 패턴 참고 사이트 : [https://lalacode.tistory.com/6](https://www.toptal.com/designers/subtlepatterns/tag/paper/)
+### - UX·UI ###
+* `krds` 참고해서 작성한 '기본 패턴'과 '서비스 패턴'을 제출했다. 
+* 팀별로 작업할 App을 선정했다.
+
 # 20240906 #
 ### - CSS ###
 * `flex`와 `inline-flex`의 특성에 대해 배웠다.
