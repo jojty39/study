@@ -1,3 +1,9 @@
+# 20240910 #
+### - CSS ###
+* flex-item에 적용하는 속성 중에서 `order`, `flex-grow`, `flex-shrink`, `flex-basis`에 대해서 배웠다.
+### - UX·UI ###
+* 팀별로 작업할 App을 선정 후 발표했다. (키니케어)
+
 # 20240909 #
 ### - CSS ###
 * `background-image`, `background-position`, `background-attachment`, `background-size` 에 대해서 배웠다.
