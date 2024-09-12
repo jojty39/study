@@ -1,3 +1,14 @@
+# 20240911 #
+### - CSS ###
+* `Gradients` 중에서 `linear-gradient(선형그라디언트)`, `radial-gradient(원형그라디언트)`에 대해서 배웠다.
+* Gradients 참고사이트 : https://caniuse.com/?search=linear-gradients
+* `reset.css` 파일을 만들어 초기화하여 활용하는 방법을 배웠다.
+* CSS Reset 활용사이트 : https://meyerweb.com/eric/tools/css/reset/
+* 사이트를 참고하여 html 구조 마크업을 진행하였다.
+* 활용사이트 DYMAI :https://bdmp-001.cafe24.com/bizdemo144534/
+### - UX·UI ###
+* `키니케어`의 타겟층과 사용성에 대해 분석하여 제출하였다. 
+ 
 # 20240910 #
 ### - CSS ###
 * flex-item에 적용하는 속성 중에서 `order`, `flex-grow`, `flex-shrink`, `flex-basis`에 대해서 배웠다.
