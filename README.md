@@ -1,3 +1,17 @@
+# 20240913 #
+### - CSS ###
+* `assets` 폴더 안에 `fonts`와 `image` 폴더를 만들어 활용하여 사이트를 제작해보았다.
+* 변수의 네이밍 참고 자료 : https://blog.naver.com/no_spell_compile/223377209105
+* CSS Reset 활용사이트2 : https://jgthms.com/minireset.css/
+* Critical Rendering Path : https://velog.io/@mu1616/Critical-Rendering-Path
+* 다양한 폰트를 추천받아 `가이드라인`을 확인하고, 활용해보았다.
+* 폰트 사용을 위해 `TTF`파일을 `WOFF`로 '변환'하여 사용해보았다.
+* 지마켓산스폰트(TTF) : https://corp.gmarket.com/fonts/
+* 스포카한스 : https://spoqa.github.io/spoqa-han-sans/
+* 프리텐다드 : https://github.com/orioncactus/pretendard
+### - UX·UI ###
+* `키니케어`의 디자인, UI를 분석하고 경쟁사를 선정하였다. (힐리어리, 필라이즈, 밀리그램) 
+
 # 20240912 #
 ### - CSS ###
 * 'webEx.png' 파일을 보고 직접 포토샵 등의 다양한 툴을 활용하여 html 문서를 만들어 제출했다.
