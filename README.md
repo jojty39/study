@@ -1,3 +1,13 @@
+# 20240919 #
+### - CSS ###
+* 따로 `common`, `header`, `footer` css를 만들어 활용해 사이트를 제작했다.
+* `position` 요소 배치하는 방법에 대해 배웠다.
+* text-align 속성 : https://webstoryboy.co.kr/1677
+* CSS Position : https://creamilk88.tistory.com/197
+* position mdn : https://developer.mozilla.org/ko/docs/Web/CSS/position
+### - UX·UI ###
+* `키니케어`의 경쟁사의 디자인, UI를 분석했다. (힐리어리, 필라이즈, 밀리그램)
+
 # 20240913 #
 ### - CSS ###
 * `assets` 폴더 안에 `fonts`와 `image` 폴더를 만들어 활용하여 사이트를 제작해보았다.
