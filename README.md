@@ -1,3 +1,13 @@
+# 20240920 #
+### - CSS ###
+* `position` 예제를 통해 연습했다.
+* css fallback font: https://www.w3schools.com/css/css_font_fallbacks.asp
+* VSCode 확장팩 Minify 설치하는 방법에 대해서 배웠다.
+* https://ccusean.tistory.com/entry/VSCode%EC%97%90%EC%84%9C-HTML-CSS-Javascript-%EC%86%8C%EC%8A%A4%EB%A5%BC-Minify%ED%95%98%EA%B8%B0
+### - UX·UI ###
+* `키니케어`의 페르소나를 조사했다.
+* As Is -> To Be: https://brunch.co.kr/@areeza77/223
+  
 # 20240919 #
 ### - CSS ###
 * 따로 `common`, `header`, `footer` css를 만들어 활용해 사이트를 제작했다.
@@ -6,7 +16,7 @@
 * CSS Position : https://creamilk88.tistory.com/197
 * position mdn : https://developer.mozilla.org/ko/docs/Web/CSS/position
 ### - UX·UI ###
-* `키니케어`의 경쟁사의 디자인, UI를 분석했다. (힐리어리, 필라이즈, 밀리그램)
+* `키니케어`의 경쟁사의 디자인, UI를 분석하고 제출했다. (힐리어리, 필라이즈, 밀리그램)
 
 # 20240913 #
 ### - CSS ###
