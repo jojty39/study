@@ -1,3 +1,15 @@
+# 20240923 #
+### - CSS ###
+* `position_sticky`, `z-index`에 대해서 배우고, `position`과 관련된 예제를 연습했다.
+* `::-webkit-scrollbar`로 스크롤바 꾸미기는 방법을 배웠다.
+* https://velog.io/@shackstack/-webkit-scrollbar%EB%A1%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4%EB%B0%94-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+* 자신의 생일 컬러를 알려주는 사이트 : http://birthday-color.cafein.jp/
+*  z-index 참고사이트 : https://heewon26.tistory.com/380
+* `codepen(코드펜)` 사이트에 가입해서 메일링 서비스를 신청했다.
+* codepen(코드펜): https://codepen.io/
+### - UX·UI ###
+* `키니케어`의 페르소나를 제출했다.
+
 # 20240920 #
 ### - CSS ###
 * `position` 예제를 통해 연습했다.
