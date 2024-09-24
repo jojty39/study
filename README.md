@@ -1,3 +1,14 @@
+# 20240924 #
+### - CSS ###
+* `position_sticky`, `z-index`에 대해서 배우고, `position`과 관련된 예제를 연습했다.
+* `::before`, `::after`를 활용하는 방법을 배웠다.
+* https://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0before%EC%99%80after-%EA%B7%B8%EB%93%A4%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94/
+* CSS 문서 안에 `@import url()`을 활용해 다른 css 문서와 외부폰트를 연결하는 방법을 배웠다.
+* `Lorem Picsum`를 활용하여 배경이지지 채우는 방법을 배웠다.
+* Lorem Picsum: https://picsum.photos/
+### - UX·UI ###
+* `키니케어`의 `사용자 시나리오`, `UX VISION`, `AS IS -> TO BE` 분석하여 제출했다.
+
 # 20240923 #
 ### - CSS ###
 * `position_sticky`, `z-index`에 대해서 배우고, `position`과 관련된 예제를 연습했다.
@@ -8,7 +19,7 @@
 * `codepen(코드펜)` 사이트에 가입해서 메일링 서비스를 신청했다.
 * codepen(코드펜): https://codepen.io/
 ### - UX·UI ###
-* `키니케어`의 페르소나를 제출했다.
+* `키니케어`의 `페르소나`를 제출했다.
 
 # 20240920 #
 ### - CSS ###
