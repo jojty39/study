@@ -1,3 +1,20 @@
+# 20240925 #
+### - CSS ###
+* CSS를 활용하여 `드롭다운 메뉴(drop-down menu)`, `2Depth menu` 만드는 방법을 배웠다.
+* `object fit`, `object-position`에 대해서 배웠다.
+* object-fit 속성: https://ossam5.tistory.com/124
+* `aspect ratio`를 이용해서 요소 비율을 조정하는 방법을 배웠다.
+* aspect-ratio 속성: https://codingeverybody.kr/css-aspect-ratio-%EC%86%8D%EC%84%B1/
+* `Chrome`의 '자동재생 정책'에 대해 배웠다.
+* Chrome의 자동재생 정책: https://developer.chrome.com/blog/autoplay?hl=ko
+* `aspect ratio`를 활용해 `youtube` '동영상을 가져와서 활용하는 방법'을 배웠다.
+* aspect-ratio 참고: https://blog.illustudio.co.kr/aspect-ratio/
+* 유튜브 iframe 참고: https://gyuri-v.tistory.com/entry/%EB%8F%99%EC%98%81%EC%83%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%E2%91%A1-%EC%9C%A0%ED%8A%9C%EB%B8%8C-iframe
+* 반응형 HTML/CSS 생성기: https://app.illustudio.co.kr/video-aspect-ratio
+### - UX·UI ###
+* '스마트문화앱 UX 설계' 교재를 참고해서 'IA정보구조도' 만드는 방법을 배웠다.
+* `키니케어`의 `IA정보구조도`를 분석하고, 페르소나에 맞게 재구성했다.
+
 # 20240924 #
 ### - CSS ###
 * `position_sticky`, `z-index`에 대해서 배우고, `position`과 관련된 예제를 연습했다.
