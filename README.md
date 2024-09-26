@@ -1,3 +1,18 @@
+# 20240926 #
+### - CSS ###
+* CSS 애니메이션 작업 시 도움이 되는 `cubic bezier`에 대해서 배웠다.
+*`transition`, `transform`의 여러 속성을 배우고 축약하여 사용해보았다.
+* cubic-bezier 참고사이트: https://goodmean.tistory.com/51
+* cubic-bezier 연습 사이트: https://matthewlein.com/tools/ceaser
+* transform_skew 연습사이트: https://www.w3schools.com/css/tryit.asp?filename=trycss3_transform_skew
+* Css3 Transform 예제 사이트: https://codepen.io/vineethtrv/full/XKKEgM
+* easing function 예제 사이트: https://easings.net/ko
+* transition 참고사이트: https://ypangtrouble.tistory.com/entry/CSS-Transition
+* transform 중첩 참고사이트: https://velog.io/@jamie7dev/CSS-transform
+### - UX·UI ###
+* 서비스경험디자인시나리오개발' 평가를 진행했다.
+* `키니케어`의 `와이어프레임 구성`을 시작했다.
+
 # 20240925 #
 ### - CSS ###
 * CSS를 활용하여 `드롭다운 메뉴(drop-down menu)`, `2Depth menu` 만드는 방법을 배웠다.
@@ -13,7 +28,8 @@
 * 반응형 HTML/CSS 생성기: https://app.illustudio.co.kr/video-aspect-ratio
 ### - UX·UI ###
 * '스마트문화앱 UX 설계' 교재를 참고해서 'IA정보구조도' 만드는 방법을 배웠다.
-* `키니케어`의 `IA정보구조도`를 분석하고, 페르소나에 맞게 재구성했다.
+* `계층 패턴(Hierarchy Patten)` 활용하여 `키니케어`의 `IA정보구조도`를 분석하고, 페르소나에 맞게 재구성했다.
+* IA정보구조도 참고사이트: https://velog.io/@kangtsby/3
 
 # 20240924 #
 ### - CSS ###
@@ -21,7 +37,7 @@
 * `::before`, `::after`를 활용하는 방법을 배웠다.
 * https://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0before%EC%99%80after-%EA%B7%B8%EB%93%A4%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94/
 * CSS 문서 안에 `@import url()`을 활용해 다른 css 문서와 외부폰트를 연결하는 방법을 배웠다.
-* `Lorem Picsum`를 활용하여 배경이지지 채우는 방법을 배웠다.
+* `Lorem Picsum`를 활용하여 배경이미지 채우는 방법을 배웠다.
 * Lorem Picsum: https://picsum.photos/
 ### - UX·UI ###
 * `키니케어`의 `사용자 시나리오`, `UX VISION`, `AS IS -> TO BE` 분석하여 제출했다.
