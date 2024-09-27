@@ -1,18 +1,10 @@
-# 20240926 #
+# 20240927 #
 ### - CSS ###
-* CSS 애니메이션 작업 시 도움이 되는 `cubic bezier`에 대해서 배웠다.
-*`transition`, `transform`의 여러 속성을 배우고 축약하여 사용해보았다.
-* cubic-bezier 참고사이트: https://goodmean.tistory.com/51
-* cubic-bezier 연습 사이트: https://matthewlein.com/tools/ceaser
-* transform_skew 연습사이트: https://www.w3schools.com/css/tryit.asp?filename=trycss3_transform_skew
-* Css3 Transform 예제 사이트: https://codepen.io/vineethtrv/full/XKKEgM
-* easing function 예제 사이트: https://easings.net/ko
-* transition 참고사이트: https://ypangtrouble.tistory.com/entry/CSS-Transition
-* transform 중첩 참고사이트: https://velog.io/@jamie7dev/CSS-transform
+* `trans` 관련 다양한 예제를 연습했다.
+* `::before`, `::after`를 활용해서 `X 모양`의 `닫기 버튼`을 만들어 애니메이션 효과 주는 방법을 배웠다.
+* `구글 아이콘` 활용하는 방법을 배웠다.
 ### - UX·UI ###
-* 서비스경험디자인시나리오개발' 평가를 진행했다.
-* `키니케어`의 `와이어프레임 구성`을 시작했다.
-
+* `키니케어`의 `와이어프레임 구성`을 진행했다.
 # 20240925 #
 ### - CSS ###
 * CSS를 활용하여 `드롭다운 메뉴(drop-down menu)`, `2Depth menu` 만드는 방법을 배웠다.
