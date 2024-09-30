@@ -1,3 +1,17 @@
+# 20240930 #
+### - CSS ###
+* `icon-font(아이콘 폰트)`에 대해서 배웠다.
+* 아이콘 폰트 제작: https://m.blog.naver.com/sujeedo/221992953137
+* 무료 아이콘 폰트: https://fontawesome.com/
+* `white-space`, `text-overflow`, `overflow` 속성을 활용해 `한 줄 말줄임(...)` 방법을 배웠다.
+* `display: -webkit-box; `, `-webkit-line-clamp`, ` -webkit-box-orient` 속성을 활용해 '여러 줄 말줄임(...)' 방법을 배웠다.
+* `animation(애니메이션)`에 대해서 배웠다.
+* 애니메이션(animation),키프레임(keyframes):https://webclub.tistory.com/621
+* 애니메이션 예제: https://animista.net/
+* gsap: https://gsap.com/core/
+### - UX·UI ###
+* `키니케어`의 `와이어프레임 구성`을 완성했다.
+
 # 20240927 #
 ### - CSS ###
 * `trans` 관련 다양한 예제를 연습했다.
