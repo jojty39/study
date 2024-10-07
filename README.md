@@ -1,3 +1,13 @@
+# 20241004 #
+### - CSS ###
+* `팬스타` 사이트를 다양한 방법으로 다시 만들었다.
+* 반응형 웹 구현에 좋은 `clamp()`에 대해 배웠다.
+* clamp()참고: https://mong-blog.tistory.com/entry/CSS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EA%B5%AC%ED%98%84%EC%97%90-%EC%A2%8B%EC%9D%80-min-max-clamp
+* 폰트를 부드럽게 만드는 `-webkit-font-smoothing`에 대해 배웠다.
+* font-smoothing 참고: https://webisfree.com/2014-01-12/%5Bcss%5D-font-smoothing-%EC%86%8D%EC%84%B1-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95-%ED%8F%B0%ED%8A%B8-%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0
+### - UX·UI ###
+* 키니케어의 `디자인`을 시작했다.
+  
 # 20241002 #
 ### - CSS ###
 * `팬스타` 사이트 이미지를 만들었다.
