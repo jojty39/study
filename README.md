@@ -1,3 +1,14 @@
+# 20241007 #
+### - CSS ###
+* `가상요소`를 활용하여 `삼각형(도형)` 만드는 방법을 배웠다.
+* 삼각형만들기: https://operate.tistory.com/entry/css%EB%A1%9C-%EC%82%BC%EA%B0%81%ED%98%95-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+* `grid` 속성에 대해 간략하게 배웠다.
+* Grid참고: https://studiomeal.com/archives/533
+* `a:active`를 활용해 가상요소 `::after`에 적용하는 방법을 배웠다. 
+* :active::after 참고: https://youngari.tistory.com/entry/FE-Developer-CSS-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%EC%A0%81%EB%8B%B9%ED%9E%88%EB%8A%94-%EC%95%8C%EC%9E%904-hover-active-selected-%EB%A7%8C%EB%93%A4%EA%B8%B03-%EA%B0%80%EC%83%81-%EC%9A%94%EC%86%8C-%EC%84%A0%ED%83%9D%EC%9E%90-after-or-before
+### - UX·UI ###
+* 키니케어의 `디자인`을 분담했다.
+
 # 20241004 #
 ### - CSS ###
 * `팬스타` 사이트를 다양한 방법으로 다시 만들었다.
