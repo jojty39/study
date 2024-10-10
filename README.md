@@ -1,3 +1,17 @@
+# 20241008 #
+### - CSS ###
+* `kakao-developers`에서 개발자 등록 API 생성하는 방법을 배웠다.
+* kakao-developers: ttps://developers.kakao.com/console/app/1142302/config/appKey
+* `카카오 지도 api` 사용해서 `웹에 적용`하는 방법을 배웠다.  (https:붙이기 / 'var' -> 'const' 변경)
+* kakao-developers-map: https://apis.map.kakao.com/web/wizard/
+* 카카오맵활용참고: https://webty.tistory.com/95
+* `구글맵`을 활용하여 원하는 장소의 `좌표 확인`하는 방법을 배웠다.  (이 위치 공유(좌표확인))
+* 로고 이미지에 `filter` 효과를 적용하는 방법을 배웠다.
+* blend-mode: https://developer.mozilla.org/ko/docs/Web/CSS/blend-mode
+* CSS Blend Modes 연습사이트: https://garden.bradwoods.io/notes/css/blend-modes?ref=sidebar
+### - UX·UI ###
+* 키니케어의 `디자인`을 진행했다.
+  
 # 20241007 #
 ### - CSS ###
 * `가상요소`를 활용하여 `삼각형(도형)` 만드는 방법을 배웠다.
