@@ -1,3 +1,12 @@
+# 20241010 #
+### - CSS ###
+* `grid` 속성에 대해 배웠다.
+* grid(mdn): https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Grids
+* grid참고: https://studiomeal.com/archives/533
+* grid참고2: https://www.heropy.dev/p/c6ROLZ
+### - UX·UI ###
+* 키니케어의 `디자인`을 진행했다.
+
 # 20241008 #
 ### - CSS ###
 * `kakao-developers`에서 개발자 등록 API 생성하는 방법을 배웠다.
