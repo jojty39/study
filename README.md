@@ -1,3 +1,12 @@
+# 20241011 #
+### - CSS ###
+* 다양한 예제를 통해 `grid` 속성을 연습했다.
+* `grid`를 활용해 `반응형` 웹페이지 만드는 방법을 배웠다.
+* grid반응형참고: https://smthousand.tistory.com/36
+* grid반응형참고2: https://think-thing.tistory.com/15
+### - UX·UI ###
+* 키니케어의 `디자인`을 완성하고, 발표 ppt준비를 시작했다.
+
 # 20241010 #
 ### - CSS ###
 * `grid` 속성에 대해 배웠다.
