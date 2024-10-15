@@ -1,3 +1,15 @@
+# 20241014 #
+### - CSS ###
+* 다양한 예제를 통해 `grid` 속성을 연습했다.
+* `writing-mode`, `text-orientation`를 사용해 텍스트를 세로로 작성하는 방법을 배웠다.
+* writing-mode참고1: https://codingeverybody.kr/css-writing-mode-%EC%86%8D%EC%84%B1/
+* writing-mode참고2: https://tensdiary.tistory.com/entry/CSS-writing-mode-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%84%B8%EB%A1%9C-%EC%93%B0%EA%B8%B0-%EB%AA%A8%EB%93%9C?category=711806
+* `Media Queries(미디어쿼리)`에 대해서 배웠다.
+* 모바일네이버: https://m.naver.com
+### - UX·UI ###
+* `모바일 404 페이지`를 만들어 제출했다.
+* 키니케어의 `리디자인`발표 ppt를 준비했다.
+
 # 20241011 #
 ### - CSS ###
 * 다양한 예제를 통해 `grid` 속성을 연습했다.
