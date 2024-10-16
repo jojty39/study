@@ -1,3 +1,12 @@
+# 20241016 #
+### - CSS ###
+* `Media Queries(미디어쿼리) 선언방식`에 대해 배웠다.
+* 다양한 예제를 통해 `Media Queries(미디어쿼리)`를 연습했다.
+* Media Queries참고: https://www.daleseo.com/css-media-queries/
+### - UX·UI ###
+* 팀 프로젝트 완료 보고서를 작성했다.
+* 부산대학교한글맞춤법검사: https://xn--c79a15aizvpvcv3gctw.kr/w/%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0/
+
 # 20241015 #
 ### - UX·UI ###
 * 키니케어 발표 PPT를 완성 후 발표 대본을 작성했다.
