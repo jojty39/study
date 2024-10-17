@@ -1,3 +1,20 @@
+# 20241017 #
+### - CSS ###
+* 다양한 예제를 통해 Media Queries(미디어쿼리)를 연습했다.
+* 반응형으로 `DYAMI 사이트`를 만들기를 시작했다.
+* DYAMI: https://bdmp-001.cafe24.com/bizdemo144534/
+* `Lottie`에 대해 배웠다. 
+* `figma`에서 `lottiefiles` 플러그인을 활용해 애니메이션 만드는 방법을 배웠다.
+* `lottiefiles`, `phase`를 활용해서 애니메이션 `svg.json`파일을 만들어 적용하는 방법을 배웠다.
+* lottieiles: https://lottiefiles.com/
+* LottieFiles 플러그인: https://www.figma.com/design/7PIzq3LKGGU0VwCuhQvumO/LottieFiles---Figma-to-Lottie-Playground-(Copy)?node-id=0-1&node-type=canvas&t=aIyoop1a7wqeYSEx-0
+* lottie.min.js참고: https://velog.io/@ooo3289/lottie.js-htmljs-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+* littie자바스크립트적용: https://hello-bryan.tistory.com/432
+* phase(페이즈): https://www.phase.com/ko-KR?utm_source=instagram&utm_medium=social&utm_campaign=let_figma
+* phase참고: https://blog.naver.com/nick8888/223438214961
+* litebox: https://litebox.ai/?ref=lapaninja
+* 메뉴아이콘명칭: https://chaeyeon-chaeyeon.tistory.com/67
+  
 # 20241016 #
 ### - CSS ###
 * `Media Queries(미디어쿼리) 선언방식`에 대해 배웠다.
