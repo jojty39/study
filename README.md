@@ -1,5 +1,23 @@
 # 20241017 #
 ### - CSS ###
+* 반응형으로 `DYAMI 사이트`를 만들기를 진행했다.
+### - 포트폴리오 ###
+* 포트폴리오 준비를 위한 개별 상담을 진행했다.
+* 포트폴리오에 참고할 사용할 사이트를 조사했다.
+* mobiem(메인): https://mobiem.com/
+* humanpivot(컬러참고): https://www.humanpivot.com/
+* studio-size: https://studio-size.com/
+* wondermake: https://wondermake.xyz/?ref=lapaninja
+### - UX·UI ###
+* 시맨틱 마크업 개념 정리: https://yozm.wishket.com/magazine/detail/2495/
+* 디자인 용어: https://designshare.notion.site/f7e028d6bc3e4362b957ab4f8fd81f5a
+* UI/UX 디자인 기본 용어: https://yozm.wishket.com/magazine/detail/623/
+* 웹 개발 트렌드 용어: https://velog.io/@cookie004/61-frontend-web-development-buzz-words
+* 네이버 신입사원 경험담: https://code.naver.com/contentDetail/86
+* STAR기법...취준생 용어: https://www.hankyung.com/article/202210072639i
+
+# 20241017 #
+### - CSS ###
 * 다양한 예제를 통해 Media Queries(미디어쿼리)를 연습했다.
 * 반응형으로 `DYAMI 사이트`를 만들기를 시작했다.
 * DYAMI: https://bdmp-001.cafe24.com/bizdemo144534/
