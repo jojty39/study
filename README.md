@@ -1,3 +1,19 @@
+# 20241021 #
+### - CSS ###
+* 반응형으로 `DYAMI 사이트`를 만들기를 진행했다.
+* `Variable Font(가변서체)` 사용 방법을 배웠다.
+* 활용한폰트사이트:https://github.com/orioncactus/pretendard/releases/tag/v1.3.9
+* Variable Fonts참고: https://v-fonts.com/?source=post_page-----ad1a2fdff11c--------------------------------
+* `css 변수` 중에서 `전역변수`와 `지역변수` 사용 방법을 배웠다.
+* CSS 변수참고: https://getbootstrap.kr/docs/5.3/customize/css-variables/
+* CSS 변수참고2: https://codingeverybody.kr/css-%EB%B3%80%EC%88%98-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A7%80%EC%A0%95-css-%EC%86%8D%EC%84%B1-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
+* CSS 변수참고3: https://inpa.tistory.com/entry/CSS-📚-CSS용-변수-variable-정리
+### - 포트폴리오 ###
+* 포폴메인디자인참고사이트를 확정하고, 피그마에서 포트폴리오 구성(내용)을 만들기 시작했다.
+* reown: https://reown.com/
+### - UX·UI ###
+* 개발용어발음사전: https://dev-malssami.site/home?view=all&page=1
+
 # 20241017 #
 ### - CSS ###
 * 반응형으로 `DYAMI 사이트`를 만들기를 진행했다.
