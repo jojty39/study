@@ -1,3 +1,18 @@
+# 20241023 #
+### - CSS ###
+* `DYAMI 사이트`의 반응형 모바일 구조 작업을 완료했다.
+* js활용, Swiper 슬라이더 사용법: https://m.blog.naver.com/anedthh/222014406404
+* 'DYAMI' 사이트 작업 중 `active` 효과 적용을 위해 짧게 `Javascript - eventListener` 다루는 방법을 배웠다.
+* Javascript event참고1: https://nevertrustbrutus.tistory.com/310
+* Javascript event참고2: https://velog.io/@sang-mini/Javascript-event-%EB%8B%A4%EB%A3%A8%EA%B8%B0eventListener%EB%A5%BC-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0
+### - 포트폴리오 ###
+* 피그마에서 포트폴리오 구성(내용)을 만들기를 진행했다. (기술이력파트완료)
+* reown: https://reown.com/
+### - UX·UI ###
+* 개인프로젝트참고: https://www.behance.net/gallery/207588847/SPOT-My-BallPark-Seat-View-Service
+* 토스 플랫폼 디자이너 챌린지 과제 설명 (노션): https://tosspublic.notion.site/331360041a2d470aa2a09eded07ac036
+* 토스 인터랙션 디자이너 과제: https://tosspublic.notion.site/feaab1dac26e4e0bb78e0dab30aea8d9
+
 # 20241021 #
 ### - CSS ###
 * 반응형으로 `DYAMI 사이트`를 만들기를 진행했다.
