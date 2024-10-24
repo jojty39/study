@@ -1,3 +1,18 @@
+# 20241024 #
+### - CSS ###
+* `DYAMI 사이트`의 반응형 웹 구조 작업을 완료했다.
+### - Javascript ###
+* 본격적으로 시작하기 전, `CodePen(코드펜)` 사이트 활용방법을 배웠다.
+* Codepen: https://codepen.io/trending
+### - 포트폴리오 ###
+* 피그마에서 포트폴리오 구성(내용)을 만들기를 진행했다. (footer파트완료)
+* 전체적인 컬러 스타일을 위해 참고할 사이트를 찾았다.
+* 컬러참고사이트1: https://www.designcalendar.io/
+* 컬러참고사이트2: https://www.supercolor.cool/?ref=landing.love
+### - UX·UI ###
+* 카카오 기술블로그: https://tech.kakao.com/blog
+* 카카오페이 기술블로그: https://tech.kakaopay.com/post/kakaopay-techlog/
+
 # 20241023 #
 ### - CSS ###
 * `DYAMI 사이트`의 반응형 모바일 구조 작업을 완료했다.
