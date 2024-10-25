@@ -1,3 +1,17 @@
+# 20241025 #
+### - Javascript ###
+* JavaScript학습서: https://ko.javascript.info/
+* `내부선언`과 `외부선언` 방식에 대해서 배웠다.
+* 자바 스크립트의 `variable(변수)`에 대해 배웠다.
+* 직접 `alert(알림창)`을 만들었다.
+* 변수 호이스팅Hoistig: https://babycoder05.tistory.com/entry/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85-Hoisting
+* JavaScript & C 문법 비교: https://velog.io/@hidaehyunlee/JavaScript-C-%EB%AC%B8%EB%B2%95-%EB%B9%84%EA%B5%90
+### - 포트폴리오 ###
+* 피그마에서 포트폴리오 구성(내용)을 만들기를 완료했다.
+* 전체적인 컬러 스타일을 확정했다.
+### - UX·UI ###
+* 포트폴리오 구성 시 유의사항에 대해서 배웠다.
+
 # 20241024 #
 ### - CSS ###
 * `DYAMI 사이트`의 반응형 웹 구조 작업을 완료했다.
