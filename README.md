@@ -1,3 +1,19 @@
+# 20241029 #
+### - Javascript ###
+* 변수 초기화 방법을 배웠다.
+* `논리연산자`, `대입연산자`, `비교연산자`, `데이터형비교연산자`에 대해 배웠다.
+* `if조건문`, `if-else조건문`에 대해 배웠다.
+* JS연산자 참고: https://melius.tistory.com/21
+* 문자열 비교 연산자: https://yesaroun.tistory.com/entry/JS-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B9%84%EA%B5%90-%EC%97%B0%EC%82%B0%EC%9E%90
+* 유니코드: https://terms.naver.com/entry.naver?docId=2270340&cid=51173&categoryId=51173
+### - 포트폴리오 ###
+* 피그마에서 포트폴리오 구성(내용)을 만들기를 진행했다. (1200사이즈로 진행하다가 초안처럼 1900 사이즈로 다시 만들기로 결정함)
+
+# 20241028 #
+### - Javascript ###
+* `데이터타입`, `문자열연산자`, `산술연산자`, `증감연산자`에 대해 배웠다.
+* 다양한 연산자 예제를 풀어보았다.
+
 # 20241025 #
 ### - Javascript ###
 * JavaScript학습서: https://ko.javascript.info/
@@ -7,7 +23,7 @@
 * 변수 호이스팅Hoistig: https://babycoder05.tistory.com/entry/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85-Hoisting
 * JavaScript & C 문법 비교: https://velog.io/@hidaehyunlee/JavaScript-C-%EB%AC%B8%EB%B2%95-%EB%B9%84%EA%B5%90
 ### - 포트폴리오 ###
-* 피그마에서 포트폴리오 구성(내용)을 만들기를 완료했다.
+* 피그마에서 포트폴리오 구성(내용)을 만들기를 진행했다. (1200사이즈로 진행함)
 * 전체적인 컬러 스타일을 확정했다.
 ### - UX·UI ###
 * 포트폴리오 구성 시 유의사항에 대해서 배웠다.
