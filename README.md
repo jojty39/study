@@ -1,3 +1,14 @@
+# 20241030 #
+### - Javascript ###
+* 다양한 `if조건문` 예제를 풀어보았다.
+* `삼항연산자`에 대해서 배웠다.
+* `중첩if문`,`swithc선택문`에 대해서 배웠다.
+* 제어문,조건문 예제참고: 
+https://absolutelyfullycapable.github.io/2020-09/javascript-condition-if
+* `단락평가`참고: https://arang95.tistory.com/m/420
+### - 포트폴리오 ###
+* 피그마에서 포트폴리오 구성(내용)을 만들기를 진행했다. (footer, works 완성 & skill 부분 디자인 새로 다시 시작!! )
+  
 # 20241029 #
 ### - Javascript ###
 * 변수 초기화 방법을 배웠다.
