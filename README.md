@@ -1,3 +1,20 @@
+# 20241101 #
+### - Javascript ###
+* 내장함수,내장객체참고: https://blog.naver.com/how1_/222621036822
+* 다양한 제어문 예제를 통해 `break키워드`, `continue키워드`, `while반복문`을 배웠다.
+* `isNan()` 함수에 대해서 배웠다.
+* isNan()참고: https://hoya-kim.github.io/2021/09/08/isNaN/
+* `객체`에 대해서 배웠다.
+* 객체참고1: https://ko.javascript.info/object
+* 객체참고2: https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects
+* `내장객체` 중에서 날짜와 시간을 위한 `Date 객체`에 대해서 배웠다.
+*Date객체참고: https://velog.io/@moko0428/JavaScript-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%9E%90%EB%A3%8C%ED%98%95-Date-%EA%B0%9D%EC%B2%B4%EC%99%80-%EB%82%A0%EC%A7%9C
+* `내장객제` 중에서 수학 상수와 함수를 위한 `Math객체`에 대해서 배웠다.
+Math객체참고1: https://poiemaweb.com/js-math
+Math객체참고2: https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-Math-%EB%A9%94%EC%86%8C%EB%93%9C-%E2%9C%8F%EF%B8%8F-%EC%A0%95%EB%A6%AC
+### - 포트폴리오 ###
+* 팀프로젝트 완료보고서 피드백 받고, 수정했다. (다른 것은 모두 통과, 팀 프로젝트 개성이 들어나는 결과 찾는 게 어려움)
+
 # 20241031 #
 ### - Javascript ###
 * 다양한 `for반복문`, `switch`, `중첩switch` 예제를 통해 배웠다. 
