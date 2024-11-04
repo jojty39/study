@@ -1,3 +1,16 @@
+# 20241104 #
+### - Javascript ###
+* 다양한 예제를 통해 `Math 숫자 객체` 를 배웠다.
+* 다양한 예제를 통해 `String 문자열 객체`를 배웠다.
+* 다양한 예제를 통해 `함수 function`를 배웠다. 
+* String참고: https://ko.javascript.info/string
+* Array참고:https://ko.javascript.info/array
+* function참고: https://ko.javascript.info/function-basics
+* 리터럴(Literal): https://abled.tistory.com/72
+### - 포트폴리오 ###
+* 정보구조도를 완료했다.
+* index.html / m-index.css 작업을 시작했다. 
+
 # 20241101 #
 ### - Javascript ###
 * 내장함수,내장객체참고: https://blog.naver.com/how1_/222621036822
