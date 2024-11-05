@@ -1,3 +1,21 @@
+# 20241105 #
+### - Javascript ###
+* 다양한 예제를 통해 `this 키워드`를 배웠다.
+* JavaScript에서 this 키워드참고: 
+https://velog.io/@harimad/JavaScript%EC%97%90%EC%84%9C-this-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%9E%80
+* 다양한 예제를 통해 `배열 array`을 배웠다.
+* 배열 참고: https://stonefree.tistory.com/50
+* 다양한 예제를 통해 `타이머 함수`인 `setTimeout`, `setInterval`를 배웠다.
+* 호출 스케줄링 참고:
+https://ko.javascript.info/settimeout-setinterval
+setInterval
+* 화살표 함수 참고1:
+https://ko.javascript.info/arrow-functions-basics
+* 화살표 함수 참고2:
+https://velog.io/@zunyange/JS-function-%EB%8C%80%EC%8B%A0-arrow-function%ED%99%94%EC%82%B4%ED%91%9C-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0
+### - 포트폴리오 ###
+* index.html / m-index.css / pc-index.css 1차 작업을 완료하여 github에 올렸다. 
+
 # 20241104 #
 ### - Javascript ###
 * 다양한 예제를 통해 `Math 숫자 객체` 를 배웠다.
