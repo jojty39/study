@@ -1,3 +1,16 @@
+# 20241106 #
+### - Javascript ###
+* `문서객체모델 DOM(Document Object Model)`에 대해서 배웠다.
+* DOM 참고: https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model
+* `NodeList`에 대해서 배웠다.
+* NodeList 참고: https://codingeverybody.kr/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-nodelist/
+* 이벤트에 대해서 배웠다.
+* 이벤트 참고: https://developer.mozilla.org/ko/docs/Learn/JavaScript/Building_blocks/Events
+### - 포트폴리오 ###
+* index intro 디자인을 완료했다.(비디오 삽입 후 문구 추가 수정함)
+* index.html / m-index.css / pc-index.css 1차로 선생님께 피드백 받았다.
+* 피드백: 전체적인 컨텐츠 마진여백 통일 및 늘리기, footer 디자인 좀 더 고민, gnb:hover 효과 적용하기, 파비콘 넣기!   
+
 # 20241105 #
 ### - Javascript ###
 * 다양한 예제를 통해 `this 키워드`를 배웠다.
