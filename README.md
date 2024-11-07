@@ -1,3 +1,23 @@
+# 20241107 #
+### - Javascript ###
+* `DOMContentLoaded`에 대해서 배웠다.
+DOMContentLoaded 이벤트참고: https://ko.javascript.info/onload-ondomcontentloaded
+* `이벤트 전달(전파)`와 `이벤트 (흐름)제어`, `이벤트 위임(target)`에 대해서 배웠다.
+* 이벤트 전파와 위임 참고: https://velog.io/@dev-redo/%EC%9D%B4%EB%B2%A4%ED%8A%B8
+defer
+* 이벤트 제어 참고: https://geniee.tistory.com/35
+* 이벤트 위임 참고: https://velog.io/@nulbo/TIL-JavaScript-event.target-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%9C%84%EC%9E%84
+* js에서의 `클래스(class) 선택자 제어`하는 방법을 배웠다.
+* 클래스 제어 참고: https://bicute.tistory.com/69
+### - jQuery ###
+* https://jquery.com/
+* `jQuery v3.7.1` 압축된 버전을 설치한 후 사용 방법을 배웠다.
+* https://code.jquery.com/jquery-3.7.1.min.js
+### - 포트폴리오 ###
+* 팀프로젝트 페이지 디자인 시작!
+* index.html 전체적인 컨텐츠 마진여백 수정 완료
+* 피그마로 오픈그래프, 파비콘 아이콘을 만들어서 적용했다. (임시로 적용해 둔 것이 있어서 카카오디벨로퍼로 캐시 초기화 후 확인했다)
+
 # 20241106 #
 ### - Javascript ###
 * `문서객체모델 DOM(Document Object Model)`에 대해서 배웠다.
