@@ -1,3 +1,16 @@
+# 20241108 #
+### - jQuery ###
+* `jQuery() 기본구조`, `선택자(Selector)`에 대해서 배웠다.
+* jQuery API: https://api.jquery.com/category/selectors/
+* 선택자(Selector)참고: https://inpa.tistory.com/entry/jQuery-%F0%9F%93%9A-%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC-%EC%84%A0%ED%83%9D%EC%9E%90-Selector-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC
+* jQuery사용이유: https://www.elancer.co.kr/blog/detail/176
+* 자바스크립트와 차이점: https://hajoung56.tistory.com/51
+* HTML `<pre> 태그`를 활용하여 코드를 확인했다.
+* pre태그참고: https://webstoryboy.co.kr/1719
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 컨텐츠구성 완료 / 와이어프레임 제작 시작!
+* 모바일까지 구현하는 것을 생각해야해서 컨텐츠를 하나로 합치지 않고, 9개의 카드UI로 최대한 간략하게 표현하기로 컨셉을 설정했다.
+
 # 20241107 #
 ### - Javascript ###
 * `DOMContentLoaded`에 대해서 배웠다.
