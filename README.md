@@ -1,3 +1,18 @@
+# 20241111 #
+### - jQuery ###
+* Effects: https://api.jquery.com/category/effects/
+* `.show()`, `.hide()`, `.toggle()`에 대해서 배웠다.
+* Effect(Hide, Show, Toggle)참고: https://mangddoddo.tistory.com/155
+* `.slideUp()`, `.slideDown()`, `.slideToggle()`에 대해서 배웠다.
+* Effect(slideDown, slideUp, slideToggle)참고: https://blog.naver.com/tinglab/221527970624
+* `fadeIn()`, `fadeOut()`, `fadeToggle()`, `fadeTo()`에 대해서 배웠다.
+*  Effect(fadeIn, fadeOut, fadeToggle, fadeTo)참고: https://blog.naver.com/ksh81850/220320557924
+* each() 메서드에 대해서 배웠다.
+* each()참고: https://webclub.tistory.com/455
+* jQuery를 `gnb메뉴`와 `sub메뉴`에 적용하는 방법을 배웠다.
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 컨텐츠 디자인 진행 중..
+
 # 20241108 #
 ### - jQuery ###
 * `jQuery() 기본구조`, `선택자(Selector)`에 대해서 배웠다.
