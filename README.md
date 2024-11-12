@@ -1,3 +1,12 @@
+# 20241112 #
+### - jQuery ###
+* `.attr()`,`text()`, `html()`에 대해서 배웠다.
+* attr참고: https://mjn5027.tistory.com/84#google_vignette
+* `addClass()`, `removeClass()`, `toggleClass()`에 대해서 배웠다.
+* Class참고: https://blog.naver.com/hadaboni88/221742263573
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 컨텐츠 디자인 진행 중.. 만들고 지우고 만들고 뒤엎기의 반복.. ㅠㅁㅠ
+  
 # 20241111 #
 ### - jQuery ###
 * Effects: https://api.jquery.com/category/effects/
