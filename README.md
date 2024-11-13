@@ -1,3 +1,16 @@
+# 20241113 #
+### - jQuery ###
+* `prependTo()`, `appendTo()`을 활용하여 여러 슬라이드 예제를 연습했다.
+* `animate()` 사용 방법을 배웠다.
+* animate참고: https://knowing-passion.tistory.com/206
+* `jquery-ui.min.js` 설치 후 assets에 저장, 사용법을 배웠다.
+* https://jqueryui.com/download/
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 컨텐츠 디자인 1차 컨펌! 최대한 심플하게 핵심 키워드 유지!! ux비전, 리서치 추가하기!!
+### - UX·UI ###
+* 피그마 디자인 코드 변환: https://fn12.com/
+* function 12 참고: https://velog.io/@planic324/%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%86%8C%EA%B0%9C-function-12-feat-%EB%82%B4-%EB%B0%A5%EA%B7%B8%EB%A6%87%EC%9D%84-%EC%A7%80%ED%82%AC-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80
+
 # 20241112 #
 ### - jQuery ###
 * `.attr()`,`text()`, `html()`에 대해서 배웠다.
