@@ -1,5 +1,7 @@
 # 20241113 #
 ### - jQuery ###
+* 클래스 존재 여부를 확인하는 `hasClass()`에 대해서 배웠다.
+* hasClass참고: https://hianna.tistory.com/840
 * `prependTo()`, `appendTo()`을 활용하여 여러 슬라이드 예제를 연습했다.
 * `animate()` 사용 방법을 배웠다.
 * animate참고: https://knowing-passion.tistory.com/206
