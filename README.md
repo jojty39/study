@@ -1,3 +1,18 @@
+# 20241114 #
+### - jQuery ###
+* animate를 활용하여 박스를 순차적으로 실행하는 방법을 배웠다.
+* `easing`, `callback` 함수를 사용하여 애니메이션을 활용하는 방법을 배웠다.
+* easing효과참고: https://superkts.com/jquery/@easingEffects
+* callback참고: https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98
+* `switch문`을 사용하여 키보드 방향키 `ArrowLeft`, `ArrowRight`에 적용하여 버튼을 움직이게 하는 방법을 배웠다.
+* keydown event: https://api.jquery.com/keydown/#on-
+* KeyboardEvent: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode
+* 제이쿼리플러그인참고: https://ossam5.tistory.com/242
+* 슬라이더(Slider)플러그인: https://ossam5.tistory.com/148
+* 삼항연산자: https://velog.io/@daybreak/Javascript-%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: ux비전, As is > To be 추가 완료! PC버전 작업이 어느정도 진행되어 모바일 버전 작업을 시작했다.
+
 # 20241113 #
 ### - jQuery ###
 * 클래스 존재 여부를 확인하는 `hasClass()`에 대해서 배웠다.
