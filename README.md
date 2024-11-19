@@ -1,3 +1,23 @@
+# 20241119 #
+### - jQuery ###
+* 다양한 스크롤 이벤트를 예제를 통해 학습했다.
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 디자인 완성 후 반응형, 팀프로젝트 페이지 퍼블리싱을 진행했다.
+### - 반응형 개인프로젝트 ###
+* 반응형, 개인프로젝트 사이트를 확정했다.
+* 퓨리토서울: https://purito.com/ko/
+* 탬버린즈: https://www.tamburins.com/kr/store/korea/
+  
+# 20241118 #
+### - jQuery ###
+* `window 객체 사이즈`에 대해서 배웠다.
+* `scrollTo`, `scrollBy`로 스크롤 상태 변경하는 방법을 배웠다.
+* 다양한 스크롤 이벤트를 예제를 통해 학습했다.
+* 스크롤참고: https://ko.javascript.info/size-and-scroll#ref-811
+* 스크롤참고2: https://mill-study.tistory.com/390
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 모바일 버전 디자인을 완성했다. 반응형, 팀프로젝트 페이지 퍼블리싱을 시작했다.
+
 # 20241114 #
 ### - jQuery ###
 * animate를 활용하여 박스를 순차적으로 실행하는 방법을 배웠다.
@@ -11,7 +31,7 @@
 * 슬라이더(Slider)플러그인: https://ossam5.tistory.com/148
 * 삼항연산자: https://velog.io/@daybreak/Javascript-%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90
 ### - 포트폴리오 ###
-* 팀프로젝트 페이지: ux비전, As is > To be 추가 완료! PC버전 작업이 어느정도 진행되어 모바일 버전 작업을 시작했다.
+* 팀프로젝트 페이지: ux비전, As is > To be 추가 완료! PC버전 작업이 어느정도 진행되어 모바일 버전 디자인 작업을 시작했다.
 
 # 20241113 #
 ### - jQuery ###
