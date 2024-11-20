@@ -1,3 +1,19 @@
+# 20241120 #
+### - jQuery ###
+* 다양한 스크롤 이벤트를 예제를 통해 학습했다.
+* `vagas` 사이트 활용, 플러그인 설치 및 `다양한 효과` 적용 방법을 배웠다.
+* vagas: https://vegas.jaysalvat.com/documentation/settings/
+* `swiperjs` 플러그인 설치 및 활용 방법을 배웠다.
+* swiper: https://swiperjs.com/
+* swiper참고: https://m.blog.naver.com/nahyun_www/223426826674
+* 다양한효과 참고1: https://uiverse.io/elements
+* 다양한효과 참고2: https://freefrontend.com/
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 반응형, 팀프로젝트 페이지 퍼블리싱을 진행했다.
+### - 반응형 개인프로젝트 ###
+* 탬버린즈 공홈, 페이스북, 인스타 등에서 관련 자료와 소스를 수집하여 디자인을 진행했다.
+* 브랜드 이미지, 슬로건을 지키면서 작업하는 과정이 쉽지 않았다.
+  
 # 20241119 #
 ### - jQuery ###
 * 다양한 스크롤 이벤트를 예제를 통해 학습했다.
@@ -5,8 +21,8 @@
 * 팀프로젝트 페이지: 디자인 완성 후 반응형, 팀프로젝트 페이지 퍼블리싱을 진행했다.
 ### - 반응형 개인프로젝트 ###
 * 반응형, 개인프로젝트 사이트를 확정했다.
-* 퓨리토서울: https://purito.com/ko/
-* 탬버린즈: https://www.tamburins.com/kr/store/korea/
+* 모티브-퓨리토서울: https://purito.com/ko/
+* 리디자인-탬버린즈: https://www.tamburins.com/kr/store/korea/
   
 # 20241118 #
 ### - jQuery ###
