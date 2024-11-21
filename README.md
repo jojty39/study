@@ -1,3 +1,19 @@
+# 20241121 #
+### - jQuery ###
+* `swiper`를 활용해 다양한 `Pagination(페이지네이션)` 적용 방법을 배웠다.
+* swiper API: https://swiperjs.com/swiper-api#pagination
+* `resize`를 활용하여 브라우저 최적화 방법을 배웠다.
+* resize참고: https://inpa.tistory.com/entry/jQuery-%F0%9F%93%9A-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-resize-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%B5%9C%EC%A0%81%ED%99%94
+* `마우스 좌표`, `clientX`, `clientY`와 `pageX`, `pageY`에 대해서 배웠다.
+* 마우스 이벤트 참고: https://ko.javascript.info/mouse-events-basics#ref-1501
+* 마우스 좌표 참고: https://velog.io/@klloo/JavaScript-%EB%A7%88%EC%9A%B0%EC%8A%A4-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EC%A2%8C%ED%91%9Cscreen-page-client-offset
+### - 포트폴리오 ###
+* 팀프로젝트 페이지: 반응형, 팀프로젝트 페이지 퍼블리싱을 진행했다.
+### - 반응형 개인프로젝트 ###
+* 탬버린즈 PC와 모바일 리디자인을 진행했다.
+### - UX·UI ###
+* 토스레퍼런스: https://toss.im/simplicity-24
+
 # 20241120 #
 ### - jQuery ###
 * 다양한 스크롤 이벤트를 예제를 통해 학습했다.
