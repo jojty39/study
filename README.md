@@ -1,3 +1,27 @@
+# 20241125 #
+### - jQuery ###
+* 자바스크립트 예제 사이트를 완성했다: https://terrabites.eu/#home-intro
+* `GSAP` 활용 방법을 배웠다.
+* GSAP: https://gsap.com/docs/v3/
+* 3.12.5버전 https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js
+* GSAP 예제 사이트: https://qude.audio/
+* gsap 참고 사이트(쉬움): https://michalsnik.github.io/aos/
+* gsap 참고 사이트: https://scrollmagic.io/
+### - 반응형 개인프로젝트 ###
+* 탬버린즈 PC와 모바일 리디자인 통과 후 html 구조를 완성했다.
+
+# 20241122 #
+### - Javascript & jQuery ###
+* `가로스크롤` 하는 방법을 배웠다.
+* 가로스크롤 참고: https://zthcoding.tistory.com/entry/Javascript-%ED%8A%B9%EC%A0%95-%EC%9C%84%EC%B9%98%EA%B0%80-%EB%90%98%EB%A9%B4-%EA%B0%80%EB%A1%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4%ED%95%98%EA%B8%B0
+* 마우스 `cursor` 커스터마이징 하는 방법을 배웠다.
+* cursor 참고: https://sisiblog.tistory.com/356
+* `will-change를 활용하여 웹사이트 성능 향상 시키는 방법을 배웠다.
+* will-change참고: https://coding-farmer.tistory.com/7
+* 자바스크립트 예제 사이트를 진행했다: https://terrabites.eu/#home-intro
+### - 반응형 개인프로젝트 ###
+* 탬버린즈 모바일 리디자인을 진행했다.
+
 # 20241121 #
 ### - jQuery ###
 * `swiper`를 활용해 다양한 `Pagination(페이지네이션)` 적용 방법을 배웠다.
