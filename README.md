@@ -1,3 +1,11 @@
+# 20241126 #
+### - jQuery ###
+* GSAP 예제 사이트를 진행했다: https://qude.audio/
+* `ScrollTrigger` 활용 방법을 배웠다.
+* ScrollTrigger.min.js: https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js
+### - 반응형 개인프로젝트 ###
+* 탬버린즈 모바일 CSS 작업을 진행했다.
+
 # 20241125 #
 ### - jQuery ###
 * 자바스크립트 예제 사이트를 완성했다: https://terrabites.eu/#home-intro
