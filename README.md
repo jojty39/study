@@ -1,3 +1,21 @@
+# 20241203 #
+### - Javascript & React ###
+* `filter()`, `map()`에 대해서 배웠다.
+* filter 참고: https://codingeverybody.kr/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-filter-%ED%95%A8%EC%88%98/
+* map 참고:
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+* `Kakao Developers`에 등록된 `API_KEY`를 활용하여 책 검색 엔진을 구현했다.
+* kakaoAPI 검색: https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book
+* `스프레드연산자(Spread Operator)`에 대해서 배웠다.
+* Spread연산자 참고: https://dev-astra.tistory.com/522
+* `구조분해할당`에 대해서 배웠다.
+* 구조분해할당 참고1: https://ko.javascript.info/destructuring-assignment
+* 구조분해할당 참고2: https://chanhuiseok.github.io/posts/js-10/
+* `삼항연산자+단락회로평가`로 `Truthy & Falsy`한 상황에 대해서 배웠다.
+* 단락회로평가 참고: https://dvcoding.tistory.com/54
+### - 반응형 개인프로젝트 ###
+* 반응형 웹사이트 작업을 마무리하고 프로젝트 설명 페이지 디자인을 시작했다.
+
 # 20241202 #
 ### - Javascript & React ###
 * `JSON`에 대해서 배웠다.
