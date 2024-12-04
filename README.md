@@ -1,19 +1,45 @@
+# 20241202 #
+### - Javascript & React ###
+* `JSON`에 대해서 배웠다.
+* JSON 참고: https://codingazua.tistory.com/4
+* `Fetch API` 사용방법에 대해서 배웠다.
+* Fetch API 참고: https://developer.mozilla.org/ko/docs/Web/API/Fetch_API/Using_Fetch
+* `Async`, `Await`에 대해서 배웠다.
+* async+await 참고: https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC-async-await
+* `JQuery`를 이용한 `Ajax`사용 방법에 대해서 배웠다.
+* jQueryAjax 참고: https://scoring.tistory.com/entry/AJAX%EB%9E%80-JQuery%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-AJAX%EC%82%AC%EC%9A%A9%EB%B2%95
+### - 반응형 개인프로젝트 ###
+* 최적화를 위해 자바스크립트 대신 제이쿼리로 코드 일부분을 변경했다. 
+* 자바스크립트를 활용하여 제품 카드(캐러셀) 슬라이더를 구현했다. (swiper.js 플러그인을 사용했는데 기능이 마음에 들지 않아 오랜 고민끝에 원하는 위치에 멈출 수 있는 터치 가능한 가로스크롤과 양 옆 버튼을 구현했다)
+
+# 20241129 #
+### - Javascript & jQuery ###
+* GSAP를 활용하여 예제 사이트를 진행했다.
+* https://qude.audio/
+* GSAP 참고: https://velog.io/@kmmkyung/GSAP
+* `GSAP`를 사용하여 `흐르는 글자` 만드는 방법을 배웠다.
+* ToggleAction: https://gsap.com/community/forums/topic/28266-toggleaction-onenterback-resets-animation/
+* toggleActions 참고: https://velog.io/@sutrong7/gsap-%ED%95%B5%EC%8B%AC-%EC%86%8D%EC%84%B1-toggleActions-%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC
+### - 반응형 개인프로젝트 ###
+* 탬버린즈 PC CSS 작업을 진행했다.
+* 컬랙선 부분은 모바일 버전과 PC 버전 슬라이더가 완전히 달라 따로 만들어 진행했다. (감각적인 브랜드 이미지를 살리고 싶어 모바일과 PC버전 디자인을 다르게 구성해서 아예 html 구조에서 따로 만들어 각각의 화면에서 숨김처리하여 일부 진행하게 됨)
+
 # 20241128 #
-### - jQuery ###
+### - Javascript & jQuery ###
 * 폭설로 인하여 수업 진도 X !!
 ### - 반응형 개인프로젝트 ###
 * 탬버린즈 PC CSS 작업을 시작했다.
 * 이미지 로딩 이슈 발생 (최적화X) -> 이미지 사이즈가 커서 로딩이 느림!! 원래 안전하게  png x2 OR x3 하던 이미지를 png x1 OR x1.5로 사이즈 줄여서 해결!
 
 # 20241127 #
-### - jQuery ###
+### - Javascript & jQuery ###
 * GSAP 예제 사이트를 진행했다: https://qude.audio/
 ### - 반응형 개인프로젝트 ###
 * 탬버린즈 모바일 CSS 작업을 진행했다.
 * 모바일 버전 무한히 흐르는 글자 해결: https://dbreblog.com/53
 
 # 20241126 #
-### - jQuery ###
+### - Javascript & jQuery ###
 * GSAP 예제 사이트를 진행했다: https://qude.audio/
 * `ScrollTrigger` 활용 방법을 배웠다.
 * ScrollTrigger.min.js: https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js
@@ -21,7 +47,7 @@
 * 탬버린즈 모바일 CSS 작업을 진행했다.
 
 # 20241125 #
-### - jQuery ###
+### - Javascript & jQuery ###
 * 자바스크립트 예제 사이트를 완성했다: https://terrabites.eu/#home-intro
 * `GSAP` 활용 방법을 배웠다.
 * GSAP: https://gsap.com/docs/v3/
