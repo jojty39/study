@@ -8,7 +8,8 @@
 * 반응형 웹사이트 작업을 마무리하고 프로젝트 설명 페이지 퍼블리싱을 완료했다.
 ### - GSAP 개인프로젝트 ###
 * GSAP 적용해 볼 사이트를 선정했다. (고민중)
-* https://www.museothyssen.org/webdocs/conectathyssen/artistas-migrantes/
+* 모티브(티센 보르네미사 국립미술관) - https://www.museothyssen.org/webdocs/conectathyssen/artistas-migrantes/
+* 리디자인(리움미술관) - https://www.leeumhoam.org/leeum/exhibition?params=Y&state=3
 ### - Chat GPT ###
 * ChatGPT 역할 부여하기에 대한 착각: https://revisioncrm.tistory.com/672
 
