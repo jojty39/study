@@ -1,3 +1,35 @@
+# 20241205 #
+### - React ###
+* `컴포넌트(Component)`에 대해서 배웠다.
+* `AND 연산자 (&&)`를 사용한 `조건부 렌더링`, `undefined` 랜더링 하지 않기에 대해서 공부했다.
+* `className` 사용 방법을 배웠다. 
+* Redux: https://ko.redux.js.org/introduction/getting-started/
+### - 반응형 개인프로젝트 ###
+* 반응형 웹사이트 작업을 마무리하고 프로젝트 설명 페이지 퍼블리싱을 완료했다.
+### - GSAP 개인프로젝트 ###
+* GSAP 적용해 볼 사이트를 선정했다. (고민중)
+* https://www.museothyssen.org/webdocs/conectathyssen/artistas-migrantes/
+### - Chat GPT ###
+* ChatGPT 역할 부여하기에 대한 착각: https://revisioncrm.tistory.com/672
+
+# 20241204 #
+### - React ###
+* `리액트 React`, `뷰 Vue`, `앵귤러 Angular`, `넥스트제이에스 next.js`의 기본 개념에 대해서 배웠다.
+* `SPA(Single Page Application)` vs `MPA(Multi Page Application)`를 비교 분석했다.
+* `Virtual DOM`의 개념에 대해서 배웠다.
+* 리액트 사용을 위한 사전 설정을 진행했다. (Node.js, Reactjs code snippets, React Developer Tools 설치)
+* package.json참고1: https://dev-ellachoi.tistory.com/65
+* package.json참고2: https://velog.io/@dongeun-i/package.json-package-lock.json-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90
+* `JSX 문법`에 대해서 배웠다.
+* `React snippets`에 대해서 배웠다. (`rsc`, `rsf`)
+* Node.js: https://nodejs.org/en
+* Node.js 참고: https://codingapple.com/unit/nodejs-3-what-is-node-js/
+* 관리자프롬프트 실행참고: https://help.hosting.kr/hc/ko/articles/4406164009241-Windows-Server%EC%97%90%EC%84%9C-%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A1%9C-%EB%AA%85%EB%A0%B9-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EA%B9%8C
+* webpack(웹팩): https://webpack.js.org/
+* babel(바벨): https://babeljs.io/
+### - 반응형 개인프로젝트 ###
+* 반응형 웹사이트 작업을 마무리하고 프로젝트 설명 페이지 퍼블리싱을 시작했다.
+
 # 20241203 #
 ### - Javascript & React ###
 * `filter()`, `map()`에 대해서 배웠다.
