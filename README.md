@@ -1,3 +1,19 @@
+# 20241206 #
+### - React ###
+* `State`, `Hook`을 배웠다.
+* Using the State Hook: https://ko.legacy.reactjs.org/docs/hooks-state.html
+* Hook 참고: https://velog.io/@1998yuki0331/React-Hook-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-State-Effect-%EC%9C%84%EC%A3%BC%EB%A1%9C
+* `useState`를 다양한 예제에 적용했다.
+*  `useState`를 활용해 증가, 감소 버튼을 생성했다.
+* `setIsShow(!isShow)` 활용해 토글 버튼을 생성했다.
+* react에서의 스타일 적용하는 방법을 배웠다.
+### - GSAP 개인프로젝트 ###
+* GSAP 적용해 볼 사이트를 확정 후 피그마로 디자인 작업을 시작했다.
+* 모티브(티센 보르네미사 국립미술관) - https://www.museothyssen.org/webdocs/conectathyssen/artistas-migrantes/
+* 리디자인(리움미술관) - https://www.leeumhoam.org/leeum/exhibition?params=Y&state=3
+### - UX UI ###
+* 무료 이미지 참고: https://kr.freepik.com/
+
 # 20241205 #
 ### - React ###
 * `컴포넌트(Component)`에 대해서 배웠다.
