@@ -1,3 +1,16 @@
+# 20241209 #
+### - React ###
+* 리액트 확인! 가상의 주소 입력: http://localhost:3000/
+* react에서 CSS 작성하는 방법을 배웠다.
+* `css-module`, `SCSS`을 활용하여 CSS 작성하는 방법을 배웠다.
+* SASS install: https://sass-lang.com/install/
+* SCSS(SASS)
+https://www.npmjs.com/package/sass
+* styled-components: https://styled-components.com/docs/basics#installation
+* CSS 작성법 참고: https://velog.io/@kwonh/React-CSS%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4-css-module-sass-css-in-js
+### - GSAP 개인프로젝트 ###
+* 피그마로 디자인 작업을 진행했다.
+
 # 20241206 #
 ### - React ###
 * `State`, `Hook`을 배웠다.
