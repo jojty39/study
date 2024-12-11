@@ -1,10 +1,20 @@
+# 20241211 #
+### - React ###
+* `swiper`를 리액트에서 적용해 배너 슬라이더 만드는 방법을 배웠다.
+* https://swiperjs.com/demos
+* swiper 참고1: https://0lrlokr.tistory.com/105
+* swiper 참고2: https://xionwcfm.tistory.com/331
+### - GSAP 개인프로젝트 ###
+* 피그마로 디자인 작업을 진행 후 퍼블리싱을 시작했다.
+
 # 20241210 #
 ### - React ###
 * 리액트 예제 사이트(경동): http://www.kyungdong.co.kr/
 * `경동` 사이트의 `BUSINESS 파트`를 컴포넌트로 만들어 DB를 적용 후 직접 깃허브에 업로드 해보았다.
 * useEffect: https://jhbljs92.tistory.com/entry/7-useEffect
+* .env환경변수 관리 참고: https://velog.io/@mxkxx1011/%EB%A6%AC%EC%95%A1%ED%8A%B8-env-%ED%8C%8C%EC%9D%BC-%EC%84%A4%EC%A0%95
 ### - GSAP 개인프로젝트 ###
-* 피그마로 디자인 작업을 진행했다.
+* 피그마로 디자인 작업을 진행했다. 동서고금하는 미술관의 컨셉에 맞는 서체를 선정하는 것에 많은 어려움을 겪었다. 최종적으로 영문은 세리프, 한글은 산세리프로 결정!
 
 # 20241209 #
 ### - React ###
