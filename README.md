@@ -1,3 +1,11 @@
+# 20241210 #
+### - React ###
+* 리액트 예제 사이트(경동): http://www.kyungdong.co.kr/
+* `경동` 사이트의 `BUSINESS 파트`를 컴포넌트로 만들어 DB를 적용 후 직접 깃허브에 업로드 해보았다.
+* useEffect: https://jhbljs92.tistory.com/entry/7-useEffect
+### - GSAP 개인프로젝트 ###
+* 피그마로 디자인 작업을 진행했다.
+
 # 20241209 #
 ### - React ###
 * 리액트 확인! 가상의 주소 입력: http://localhost:3000/
