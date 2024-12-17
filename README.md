@@ -3,6 +3,7 @@
 * REACT 적용해 볼 사이트를 확정 후 피그마로 디자인 작업을 시작했다.
 * 모티브(서리풀 페스티벌) - https://seoripul.org/
 * 리디자인(푸드위크) - https://www.foodweek.co.kr/fairDash.do?hl=KOR
+* Gravity Pills: https://codepen.io/itayko/pen/RNbPmaQ
 
 # 20241216 #
 ### - GSAP 개인프로젝트 ###
